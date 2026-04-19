@@ -108,16 +108,3 @@ The application communicates with two backend services:
 
 - **Product Service:** `http://localhost:7081/api/products`
 - **Cart Service:** `http://localhost:7082/api/cart`
-
-Ensure these services are running and accessible for full functionality.
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-This project is private and proprietary.
